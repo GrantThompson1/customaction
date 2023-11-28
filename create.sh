@@ -1,0 +1,1 @@
+aws codepipeline create-custom-action-type --cli-input-json file://MyCustomAction.json | jq

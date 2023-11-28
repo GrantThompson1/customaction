@@ -1,0 +1,9 @@
+{
+    "jobId": "f9ea3738-b15f-48be-b7ef-74f5dc73e1ed",
+    "continuationToken": "12345",
+    "executionDetails": {
+        "summary": "mySummary",
+        "externalExecutionId": "6789",
+        "percentComplete": 10
+    }
+}

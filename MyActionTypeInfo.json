@@ -1,0 +1,13 @@
+{
+    "actionTypeId": {
+      "category": "Build", 
+      "owner": "Custom",
+      "provider": "gmthomp",
+      "version": "1"
+    },
+    "maxBatchSize": 5,
+    "queryParam": {
+        "ProjectIdentifier": "myIdentifier"
+    }
+  }
+  
